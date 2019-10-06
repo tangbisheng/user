@@ -4,5 +4,6 @@ class User {
     private String address;
     private String zhangxiaorong;
     private String aaa;
+    private String xin2;
 }
 
